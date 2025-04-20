@@ -27,4 +27,4 @@
 ---
 
 ## 📁 Project Structure
-
+ElectIT/ ├── index.html # Landing page ├── login.php # User login interface ├── register.php # User registration (if applicable) ├── dashboard.php # User dashboard after login ├── vote.php # Voting functionality for both CR and IT Club positions ├── result.php # Displays voting results ├── logout.php # User logout ├── config/ │ └── db.php # Database connection file ├── assets/ │ ├── css/ # Stylesheets │ ├── js/ # JavaScript files │ └── images/ # Logos and images ├── includes/ │ ├── header.php # Common page header │ └── footer.php # Common page footer ├── database/ │ └── electit.sql # Database dump for setup └── README.md # Project documentation
